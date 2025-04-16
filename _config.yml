@@ -13,7 +13,7 @@ title                    : "=v="
 title_separator          : "-"
 name                     : &name "Sharry/fanfan"
 description              : &description "always feel busy o(╥﹏╥)o"
-url                      :  "https://sharryishyf.github.io"
+url                      :  https://sharryishyf.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
