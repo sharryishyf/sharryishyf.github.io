@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # 👋 HiHi，I'm sharry
 **📡 Telecommunications Engineering Student **  
 ** 📍 Studying as an undergraduate at Xi'an Jiaotong-Liverpool University. **
